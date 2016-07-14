@@ -1,14 +1,14 @@
 [{
-“box1”: {
-    “name”: “Android TV box 1”,
-    “urls”: ["http://10.126.209.184:9000/dashboard/index/52644", "https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15"]
+"box1": {
+    "name": "Android TV box 1",
+    "urls": ["http://10.126.209.184:9000/dashboard/index/52644", "https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15"]
   },
-“box2”: {
-    “name”: “Android TV box 2”,
-    “urls”: ["https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15", "http://geektyper.com/scp/"]
+"box2": {
+    "name": "Android TV box 2",
+    "urls": ["https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15", "http://geektyper.com/scp/"]
   },
-“box3”: {
-    “name”: “Android TV box 3”,
-    “urls”: ["http://geektyper.com/scp/", "http://10.126.209.184:9000/dashboard/index/52644"]
+"box3": {
+    "name": "Android TV box 3",
+    "urls": ["http://geektyper.com/scp/", "http://10.126.209.184:9000/dashboard/index/52644"]
   }
 }]
