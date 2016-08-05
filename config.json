@@ -2,15 +2,15 @@
  {
 "id":"box1",
     "name": "Android TV box 1",
-    "urls": ["http://10.126.209.184:9000/dashboard/index/52644", "https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15"]
+    "urls": ["http://10.127.4.211/DashboardAPI/index.html", "http://10.143.16.36/dashboard/db/cassandra-db-metrics"]
   },{
 "id":"box2",
     "name": "Android TV box 2",
-    "urls": ["https://mpulse.soasta.com/concerto/DashboardServlet?dashboardID=2109741&public=true&filterUID=fa7b2540-5730-4354-a5dc-14b636c69e15", "http://geektyper.com/scp/"]
+    "urls": ["http://10.126.209.184:9000/dashboard/index?id=com.adidas.brand.api%3Acapi"]
   },{
 "id":"box3",
     "name": "Android TV box 3",
-    "urls": ["http://geektyper.com/scp/", "http://10.126.209.184:9000/dashboard/index/52644"]
+    "urls": ["http://10.126.209.184:9000/dashboard/index?id=DIG_Brand_capi_v2_master]
   }
 ]
 
