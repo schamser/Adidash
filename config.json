@@ -1,16 +1,1 @@
-[
- {
-"id":"BOX-ID-1",
-    "name": "Android TV box 1",
-    "urls": ["http://10.127.4.211/DashboardAPI/index.html", "http://10.143.16.36/dashboard/db/cassandra-db-metrics", "http://10.126.209.184:9000/dashboard/index?id=com.adidas.brand.api%3Acapi", "http://10.126.209.184:9000/dashboard/index?id=DIG_Brand_capi_v2_master", "http://geektyper.com/scp/"]
-  },{
-"id":"BOX-ID-2",
-    "name": "Android TV box 2",
-    "urls": ["http://10.126.209.184:9000/dashboard/index?id=com.adidas.brand.api%3Acapi", "http://10.127.4.211/DashboardAPI/index.html", "http://geektyper.com/scp/"]
-  },{
-"id":"BOX-ID-3",
-    "name": "Android TV box 3",
-    "urls": ["http://10.126.209.184:9000/dashboard/index?id=DIG_Brand_capi_v2_master", "http://10.127.4.211/DashboardAPI/index.html"]
-  }
-]
 
