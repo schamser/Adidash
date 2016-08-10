@@ -10,6 +10,6 @@
   },{
 "id":"BOX-ID-3",
     "name": "Android TV box 3",
-    "urls": ["http://10.126.209.184:9000/dashboard/index?id=DIG_Brand_capi_v2_master", "http://10.127.4.211/DashboardAPI/index.html"]
+    "urls": ["http://10.127.4.211/DashboardAPI/index.html"]
   }
 ]
