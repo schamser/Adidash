@@ -2,7 +2,7 @@
  {
 "id":"BOX-ID-1",
     "name": "Android TV box 1",
-    "urls": ["http://10.126.209.184:9000/dashboard?id=com.adidas%3Acampaign-framework&did=10000"]
+    "urls": ["https://tools.adidas-group.com/sonar/dashboard?id=DIG_Brand_capi_v2_master&did=10000"]
   },{
 "id":"BOX-ID-2",
     "name": "Android TV box 2",
