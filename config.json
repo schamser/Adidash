@@ -10,6 +10,6 @@
   },{
 "id":"BOX-ID-3",
     "name": "Android TV box 3",
-    "urls": ["http://10.143.16.36/dashboard/db/cassandra-db-metrics", "http://10.143.16.38:3030/sample", "http://10.127.4.211/DashboardAPI/index.html", "https://adidasaspen.service-now.com/navpage.do"]
+    "urls": ["http://10.143.16.36/dashboard/db/cassandra-db-metrics", "https://tools.adidas-group.com/confluence/display/GOACF/eCom+dashboard+screens"]
   }
 ]
