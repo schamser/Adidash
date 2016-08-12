@@ -11,5 +11,9 @@
 "id":"BOX-ID-3",
     "name": "Android TV box 3",
     "urls": ["http://10.143.16.36/dashboard/db/cassandra-db-metrics", "http://10.143.16.38:3030/sample", "http://10.127.4.211/DashboardAPI/index.html"]
+  },{
+ "id":"BOX-ID-4",
+   "name": "Android TV box 4",
+   "urls": ["http://geektyper.com/scp/"]
   }
 ]
